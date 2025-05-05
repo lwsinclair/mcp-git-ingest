@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/adhikasp-mcp-git-ingest-badge.png)](https://mseep.ai/app/adhikasp-mcp-git-ingest)
+
 # MCP Git Ingest
 [![smithery badge](https://smithery.ai/badge/mcp-git-ingest)](https://smithery.ai/server/mcp-git-ingest)
 
